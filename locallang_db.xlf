@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-04-27T14:33:10Z">
+		<header>
+			<generator>LFEditor</generator>
+		</header>
+		<body>
+			<trans-unit id="tt_content.list_type_pi1">
+				<source>Job Offers</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_cat">
+				<source>Category</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_cat.cat_name">
+				<source>Category Name</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_contact">
+				<source>Contact</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_contact.contact">
+				<source>Contact</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_contact.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_jobs">
+				<source>Jobs</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_jobs.anforderungen">
+				<source>Demands</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_jobs.aufgaben">
+				<source>Tasks</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_jobs.beschreibung">
+				<source>Jobdescription</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_jobs.bezeichner">
+				<source>Jobtitle</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_jobs.category">
+				<source>Category</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_jobs.contact">
+				<source>Contact</source>
+			</trans-unit>
+			<trans-unit id="tx_abminijoboffers_jobs.jobdatum">
+				<source>Starting Date</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

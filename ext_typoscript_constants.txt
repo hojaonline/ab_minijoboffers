@@ -1,0 +1,6 @@
+
+plugin.tx_abminijoboffers_pi1 {
+  templateFile = typo3conf/ext/ab_minijoboffers/pi1/minijoboffers_template.tmpl
+  singleView.tdstyle = background-color:#F0F0F0; border:2px solid #FFFFFF; padding:10px;
+  listView.tdstyle = background-color:#F0F0F0; border:2px solid #FFFFFF; padding:10px;
+}

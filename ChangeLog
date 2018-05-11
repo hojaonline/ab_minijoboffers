@@ -1,0 +1,4 @@
+2018-04-27 : Typo3 8.7 Compatibility Fix  Changes
+	Changes Made by PIT Solutions
+2014-04-28 : Typo3 6.2 Compatibility Fix  Changes
+	* ab_minijoboffers\pi1\class.tx_abminijoboffers_pi1.php -> Removed require_once statement in line number 32

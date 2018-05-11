@@ -1,0 +1,8 @@
+
+plugin.tx_abminijoboffers_pi1 {
+   templateFile = {$plugin.tx_abminijoboffers_pi1.templateFile}
+}
+plugin.tx_abminijoboffers_pi1.singleView {
+   date_stdWrap.strftime= %d.%m.%Y
+   tdstyle={$plugin.tx_abminijoboffers_pi1.listView.tdstyle}
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-04-27T14:34:49Z">
+		<header>
+			<generator>LFEditor</generator>
+		</header>
+		<body>
+			<trans-unit id="back">
+				<source>Back</source>
+			</trans-unit>
+			<trans-unit id="listFieldHeader_anforderungen">
+				<source>Your profile</source>
+			</trans-unit>
+			<trans-unit id="listFieldHeader_aufgaben">
+				<source>Tasks</source>
+			</trans-unit>
+			<trans-unit id="listFieldHeader_beschreibung">
+				<source>Job description</source>
+			</trans-unit>
+			<trans-unit id="listFieldHeader_bezeichner">
+				<source>Job title</source>
+			</trans-unit>
+			<trans-unit id="listFieldHeader_category">
+				<source>Category</source>
+			</trans-unit>
+			<trans-unit id="listFieldHeader_contact">
+				<source>Contact person</source>
+			</trans-unit>
+			<trans-unit id="listFieldHeader_jobdatum">
+				<source>Date</source>
+			</trans-unit>
+			<trans-unit id="list_mode_1">
+				<source>Mode 1</source>
+			</trans-unit>
+			<trans-unit id="list_mode_2">
+				<source>Mode 2</source>
+			</trans-unit>
+			<trans-unit id="list_mode_3">
+				<source>Mode 3</source>
+			</trans-unit>
+			<trans-unit id="pi_list_browseresults_displays">
+				<source>Displaying results ###SPAN_BEGIN###%s to %s&lt;/span&gt; out of ###SPAN_BEGIN###%s&lt;/span&gt;</source>
+			</trans-unit>
+			<trans-unit id="pi_list_browseresults_next">
+				<source>Next &gt;</source>
+			</trans-unit>
+			<trans-unit id="pi_list_browseresults_page">
+				<source>Page</source>
+			</trans-unit>
+			<trans-unit id="pi_list_browseresults_prev">
+				<source>&lt; Previous</source>
+			</trans-unit>
+			<trans-unit id="pi_list_searchBox_search">
+				<source>Search</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

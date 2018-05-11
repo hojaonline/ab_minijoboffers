@@ -1,0 +1,18 @@
+{
+    "name": "hojaonline/ab_minijoboffers",
+    "description": "A simple module for managing job offers.Still its pibase no re-write done. Working fine with TYPO3 8.7.14",
+    "type": "typo3-cms-extension",
+    "version": "3.0.0",
+    "license": "GPL-3.0+",
+    "require": {
+        "typo3/cms-core": ">=6.2.0,<9.0.0"
+    },
+    "authors": [
+        {
+            "name": "Hoja.M.A",
+            "email": "hoja@tnt-graphics.ch",
+            "homepage": "http://www.hoja.in/"
+        }
+    ],
+    "minimum-stability": "dev"
+}
