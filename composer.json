@@ -2,7 +2,7 @@
     "name": "hojaonline/ab_minijoboffers",
     "description": "A simple module for managing job offers.Still its pibase no re-write done. Working fine with TYPO3 8.7.14",
     "type": "typo3-cms-extension",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "license": "GPL-3.0+",
     "require": {
         "typo3/cms-core": ">=6.2.0,<9.0.0"
@@ -14,5 +14,9 @@
             "homepage": "http://www.hoja.in/"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": ["pi1/"],
+        "files": ["pi1/class.tx_abminijoboffers_pi1.php"]
+    }
 }
